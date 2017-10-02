@@ -8,7 +8,7 @@ Comparison between performance of different classifier is shown in the program. 
 visualize view of training dataset.
 
 UI Interface : Made conenction with Flask Web development Framework .
-Our System takes the Input Location from User and gives the exact prediction of Tornado occurance in that location.
+System takes the Input Location from User and gives the exact prediction of Tornado occurance in that location.
 
 @author : Utsav Dixit 
 """
